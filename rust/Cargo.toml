@@ -1,0 +1,8 @@
+[package]
+name = "unsu"
+version = "1.0.0"
+authors = ["bcollyer90 <bcollyer90@gmail.com>"]
+
+[dependencies]
+regex = "1.5.4"
+execute = "0.2.9"
